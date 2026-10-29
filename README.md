@@ -10,7 +10,7 @@
 <table>
     <td width="50%" align="center">
       <a href="docs/Screenshot2.jpg"><img src="docs/Screenshot2.jpg" alt="Screenshot" width="100%"></a>
-      <br>
+      <br> 
       <b>Screenshot II</b>
       <br>
       <!-- <sub>Convert common audio formats with FFmpeg</sub> -->
