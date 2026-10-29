@@ -84,10 +84,6 @@ If Google backup is turned on for your phone, your favorites and settings can be
 - Game information, artwork and trademarks belong to their respective owners and come from the Steam Store. Details can vary by region and edition, and a store record may leave fields blank.
 - Quode Palette Gamebook is an independent app. It is not affiliated with or endorsed by Valve or Steam.
 
-## Feedback
-
-Found a bug or have an idea? Open an [issue](../../issues) on this repository.
-
 
 ## Font
 The Montserrat fonts in `ui/fonts` are under the SIL Open Font License (see `OFL.txt`).
