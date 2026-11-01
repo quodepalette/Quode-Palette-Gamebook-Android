@@ -86,7 +86,7 @@ If Google backup is turned on for your phone, your favorites and settings can be
 
 
 ## Font
-The Montserrat fonts in `ui/fonts` are under the SIL Open Font License (see `OFL.txt`).
+The Montserrat font is under the SIL Open Font License.
 
 
 ## License
