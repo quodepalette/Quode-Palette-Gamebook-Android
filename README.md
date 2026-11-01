@@ -1,4 +1,4 @@
-# Quode Palette Gamebook
+# Quode Palette Gamebook 
 
 **A PC game reference library for Android, by Quode Palette.**
 
